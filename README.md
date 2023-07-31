@@ -8,10 +8,10 @@
 -	Menu Effect
 -	In Water Effect
 -	Craft Item Effect
--	Player Damage Effect
+-	Player Damage Effect (does not work on Servers)
 -	Fire Arrow Effect
 -	Open Chest Effect
--	Attack Effect
+-	Attack Effect (does not work on Servers)
 -	Potion Effect
 -	Player In Water Effect
 -	Player In Lava Effect
