@@ -27,7 +27,7 @@
 4. Put the .jar File in the Minecraft-Mods Folder.
 5. Unpack the MinecraftChromaMod.zip File and put the Ordner named "MinecraftChromaMod" in the Mod-Folder too.
 
-![The Modsfolder](/images/modsfolder)
-![The Chromamodsfolder](/images/modsfolder)
+![The Modsfolder](images/modsfolder.png)
+![The Chromamodsfolder](images/chromamodfolder.png)
 
 Now Start your Game and enjoy the experience!
