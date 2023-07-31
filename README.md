@@ -6,7 +6,6 @@
 
 -	Basic Effect
 -	Menu Effect
--	In Water Effect
 -	Craft Item Effect
 -	Player Damage Effect (does not work on Servers)
 -	Fire Arrow Effect
