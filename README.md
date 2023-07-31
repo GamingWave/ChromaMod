@@ -14,6 +14,7 @@
 -	Potion Effect
 -	Player In Water Effect
 -	Player In Lava Effect
+-	Item PickUp Effect
 
 
 
