@@ -1,5 +1,6 @@
 # ChromaMod (Forge 47.1.0 MInecraft: 1.20.1)
  ChromaMod for Minecraft to link your Gameplay with your Gaming Equipment
+ Inspiration and Idea by Timothy Graupmann [MinecraftChromaMod](https://github.com/tgraupmann/MinecraftChromaMod)
 
  
 ## Effects
